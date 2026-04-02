@@ -34,7 +34,7 @@ const Navbar = () => {
     <nav className="sticky top-0 z-50 bg-card/90 backdrop-blur-xl border-b border-border/60 shadow-sm">
       <div className="container mx-auto flex items-center justify-between h-[72px] px-4">
         <Link to="/" className="flex-shrink-0">
-          <img src={logo} alt="AutoQuest" className="w-auto" style={{ height: "56px" }} />
+          <img src={logo} alt="AutoQuest" className="w-auto" style={{ height: "80px" }} />
         </Link>
 
         {/* Desktop nav */}
