@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X, ChevronDown, Calculator } from "lucide-react";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/logo-Car.png";
 
 const browseItems = [
   { label: "All Cars", href: "/cars" },
